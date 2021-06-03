@@ -1,0 +1,11 @@
+.app {
+    margin: 20px;
+}
+
+header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 40px;
+}
